@@ -3,6 +3,7 @@
 <head>
   {{ partial "docs/html-head" . }}
   {{ partial "docs/inject/head" . }}
+  {{ partial "docs/mathjax" . }}
 </head>
 <body dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
   <input type="checkbox" class="hidden toggle" id="menu-control" />

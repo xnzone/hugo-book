@@ -1,3 +1,7 @@
+# Notice
+
+I forked from [hugo book](https://github.com/alex-shpak/hugo-book). I want to use hugo Mathjax, so I modify it
+
 # Hugo Book Theme
 
 [![Hugo](https://img.shields.io/badge/hugo-0.68-blue.svg)](https://gohugo.io)
@@ -6,7 +10,6 @@
 
 ### [Hugo](https://gohugo.io) documentation theme as simple as plain book
 
-![Screenshot](https://github.com/alex-shpak/hugo-book/blob/master/images/screenshot.png)
 
 - [Features](#features)
 - [Requirements](#requirements)
